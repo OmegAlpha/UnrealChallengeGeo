@@ -1,0 +1,14 @@
+*.csproj
+*.sln.DotSettings.user
+*.sln
+*.db
+*.opendb
+
+.vs/
+Binaries/
+Saved/
+Intermediate/
+Build/
+
+
+
